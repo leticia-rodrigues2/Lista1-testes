@@ -1,4 +1,3 @@
-import { describe } from "node:test";
 import calculateMedia from "./AverageValuesList";
 
 describe('calculateMedia', () => {  
